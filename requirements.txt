@@ -4,3 +4,5 @@ seaborn
 scikit-learn
 joblib
 pandas
+streamlit
+numpy
